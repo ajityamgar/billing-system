@@ -1,0 +1,100 @@
+Date: 23/9/2025
+Time: 18:47
+Phone Number: +91 7499474733
+Message: Supermarket InvoiceDate: 2025-09-23 18:47Items:- Amul Milk 1L x 1 @ 60.00 = 60.00Subtotal: 60.00Tax (18%): 10.80Total: 70.80Payment via UPIUPI Link: upi://pay?pa=merchant%40upi&pn=Supermarket&am=70.80&tn=Supermarket+Bill&cu=INRScan QR: http://127.0.0.1:5000/upi_qr?am=70.80&tn=Supermarket+BillThank you for shopping with us!
+--------------------
+Date: 23/9/2025
+Time: 18:54
+Phone Number: +91 7499474733
+Message: Supermarket InvoiceDate: 2025-09-23 18:53Items:- Amul Milk 1L x 1 @ 60.00 = 60.00Subtotal: 60.00Tax (18%): 10.80Total: 70.80Payment via CashInvoice PDF: http://127.0.0.1:5000/invoice_pdf?inv=decf1224f6 Thank you for shopping with us!
+--------------------
+Date: 23/9/2025
+Time: 18:59
+Phone Number: +91 7499474733
+Message: Supermarket InvoiceDate: 2025-09-23 18:58Items:- Tomatoes 1kg x 1 @ 30.00 = 30.00Subtotal: 30.00Tax (18%): 5.40Total: 35.40Payment via UPIUPI Link: upi://pay?pa=merchant%40upi&pn=Supermarket&am=35.40&tn=Supermarket+Bill&cu=INRScan QR: http://127.0.0.1:5000/upi_qr?am=35.40&tn=Supermarket+BillInvoice PDF: http://127.0.0.1:5000/invoice_pdf?inv=f8b9d4e820Thank you for shopping with us!
+--------------------
+Date: 23/9/2025
+Time: 18:59
+Phone Number: +91 7499474733
+Message: Supermarket InvoiceDate: 2025-09-23 18:59Items:- Bread Loaf x 1 @ 40.00 = 40.00Subtotal: 40.00Tax (18%): 7.20Total: 47.20Payment via CashInvoice PDF: http://127.0.0.1:5000/invoice_pdf?inv=ebb973a516Thank you for shopping with us!
+--------------------
+Date: 1/10/2025
+Time: 11:16
+Phone Number: +917499474733
+Message: Supermarket InvoiceDate: 2025-10-01 11:16Items:- Amul Milk 1L x 1 @ 60.00 = 60.00Subtotal: 60.00Tax (18%): 10.80Total: 70.80Payment via CashInvoice PDF: http://127.0.0.1:5000/invoice_pdf?inv=11f1d5cbc9 Thank you for shopping with us! Happy shopping!
+--------------------
+Date: 1/10/2025
+Time: 11:17
+Phone Number: +918805310074
+Message: Supermarket InvoiceDate: 2025-10-01 11:17Items:- Amul Milk 1L x 1 @ 60.00 = 60.00Subtotal: 60.00Tax (18%): 10.80Total: 70.80Payment via CashInvoice PDF: http://127.0.0.1:5000/invoice_pdf?inv=2beb78489e Thank you for shopping with us! Happy shopping!
+--------------------
+Date: 1/10/2025
+Time: 11:17
+Phone Number: +918805310074
+Message: Supermarket InvoiceDate: 2025-10-01 11:17Items:- Amul Milk 1L x 1 @ 60.00 = 60.00Subtotal: 60.00Tax (18%): 10.80Total: 70.80Payment via CashInvoice PDF: http://127.0.0.1:5000/invoice_pdf?inv=44aad9e8f1 Thank you for shopping with us! Happy shopping!
+--------------------
+Date: 3/10/2025
+Time: 13:31
+Phone Number: +919689597266
+Message: Supermarket InvoiceDate: 2025-10-03 13:31Items:- Amul Milk 1L x 1 @ 60.00 = 60.00- Fortune Oil 1L x 1 @ 150.00 = 150.00Subtotal: 210.00Tax (18%): 37.80Total: 247.80Payment via CashInvoice PDF: http://127.0.0.1:5000/invoice_pdf?inv=4072cf44be Thank you for shopping with us! Happy shopping!
+--------------------
+Date: 3/10/2025
+Time: 13:31
+Phone Number: +919689597266
+Message: Supermarket InvoiceDate: 2025-10-03 13:31Items:- Amul Milk 1L x 1 @ 60.00 = 60.00- Fortune Oil 1L x 1 @ 150.00 = 150.00Subtotal: 210.00Tax (18%): 37.80Total: 247.80Payment via CashInvoice PDF: http://127.0.0.1:5000/invoice_pdf?inv=ed42bd12ff Thank you for shopping with us! Happy shopping!
+--------------------
+Date: 3/10/2025
+Time: 13:31
+Phone Number: +919689597266
+Message: Supermarket InvoiceDate: 2025-10-03 13:31Items:- Amul Milk 1L x 1 @ 60.00 = 60.00- Fortune Oil 1L x 1 @ 150.00 = 150.00Subtotal: 210.00Tax (18%): 37.80Total: 247.80Payment via CashInvoice PDF: http://127.0.0.1:5000/invoice_pdf?inv=cefd0b26a3 Thank you for shopping with us! Happy shopping!
+--------------------
+Date: 3/10/2025
+Time: 13:31
+Phone Number: +919689597266
+Message: Supermarket InvoiceDate: 2025-10-03 13:31Items:- Amul Milk 1L x 1 @ 60.00 = 60.00- Fortune Oil 1L x 1 @ 150.00 = 150.00Subtotal: 210.00Tax (18%): 37.80Total: 247.80Payment via CashInvoice PDF: http://127.0.0.1:5000/invoice_pdf?inv=6804dc314b Thank you for shopping with us! Happy shopping!
+--------------------
+Date: 3/10/2025
+Time: 13:33
+Phone Number: +917517881140
+Message: Supermarket InvoiceDate: 2025-10-03 13:32Items:- Amul Milk 1L x 1 @ 60.00 = 60.00Subtotal: 60.00Tax (18%): 10.80Total: 70.80Payment via CashInvoice PDF: http://127.0.0.1:5000/invoice_pdf?inv=d99af9bfd9 Thank you for shopping with us! Happy shopping!
+--------------------
+Date: 3/10/2025
+Time: 13:33
+Phone Number: +917517881140
+Message: Supermarket InvoiceDate: 2025-10-03 13:33Items:- Tomatoes 1kg x 2 @ 30.00 = 60.00Subtotal: 60.00Tax (18%): 10.80Total: 70.80Payment via CashInvoice PDF: http://127.0.0.1:5000/invoice_pdf?inv=eedb20bde4 Thank you for shopping with us! Happy shopping!
+--------------------
+Date: 3/10/2025
+Time: 13:34
+Phone Number: +917517881140
+Message: Supermarket InvoiceDate: 2025-10-03 13:33Items:- Tomatoes 1kg x 2 @ 30.00 = 60.00Subtotal: 60.00Tax (18%): 10.80Total: 70.80Payment via CashInvoice PDF: http://127.0.0.1:5000/invoice_pdf?inv=93d927e297 Thank you for shopping with us! Happy shopping!
+--------------------
+Date: 3/10/2025
+Time: 13:39
+Phone Number: +919689597266
+Message: Supermarket InvoiceDate: 2025-10-03 13:39Items:- Fortune Oil 1L x 1 @ 150.00 = 150.00- Tomatoes 1kg x 1 @ 30.00 = 30.00Subtotal: 180.00Tax (18%): 32.40Total: 212.40Payment via CashInvoice PDF: http://127.0.0.1:5000/invoice_pdf?inv=fed7b52cc6 Thank you for shopping with us! Happy shopping!
+--------------------
+Date: 3/10/2025
+Time: 13:39
+Phone Number: +919689597266
+Message: Supermarket InvoiceDate: 2025-10-03 13:39Items:- Fortune Oil 1L x 1 @ 150.00 = 150.00- Tomatoes 1kg x 1 @ 30.00 = 30.00Subtotal: 180.00Tax (18%): 32.40Total: 212.40Payment via CashInvoice PDF: http://127.0.0.1:5000/invoice_pdf?inv=61c4a9e587 Thank you for shopping with us! Happy shopping!
+--------------------
+Date: 3/10/2025
+Time: 14:3
+Phone Number: +919689597266
+Message: Supermarket InvoiceDate: 2025-10-03 14:03Items:- Basmati Rice 1kg x 1 @ 120.00 = 120.00- Parle-G Biscuits x 1 @ 10.00 = 10.00- Colgate Toothpaste x 1 @ 95.00 = 95.00Subtotal: 225.00Tax (18%): 40.50Total: 265.50Payment via CashInvoice PDF: http://127.0.0.1:5000/invoice_pdf?inv=905c92413a Thank you for shopping with us! Happy shopping!
+--------------------
+Date: 3/10/2025
+Time: 14:3
+Phone Number: +919689597266
+Message: Supermarket InvoiceDate: 2025-10-03 14:03Items:- Basmati Rice 1kg x 1 @ 120.00 = 120.00- Parle-G Biscuits x 1 @ 10.00 = 10.00- Colgate Toothpaste x 1 @ 95.00 = 95.00Subtotal: 225.00Tax (18%): 40.50Total: 265.50Payment via CashInvoice PDF: http://127.0.0.1:5000/invoice_pdf?inv=df8c6bfb2e Thank you for shopping with us! Happy shopping!
+--------------------
+Date: 3/10/2025
+Time: 14:41
+Phone Number: +919689597266
+Message: Supermarket InvoiceDate: 2025-10-03 14:40Items:- Bread Loaf x 5 @ 40.00 = 200.00- Colgate Toothpaste x 1 @ 95.00 = 95.00Subtotal: 295.00Tax (18%): 53.10Total: 348.10Payment via CashInvoice PDF: http://127.0.0.1:5000/invoice_pdf?inv=2c9ec70289 Thank you for shopping with us! Happy shopping!
+--------------------
+Date: 3/10/2025
+Time: 14:41
+Phone Number: +919689597266
+Message: Supermarket InvoiceDate: 2025-10-03 14:41Items:- Bread Loaf x 5 @ 40.00 = 200.00- Colgate Toothpaste x 1 @ 95.00 = 95.00Subtotal: 295.00Tax (18%): 53.10Total: 348.10Payment via CashInvoice PDF: http://127.0.0.1:5000/invoice_pdf?inv=2c370ce6b6 Thank you for shopping with us! Happy shopping!
+--------------------

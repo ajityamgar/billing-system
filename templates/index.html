@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Supermarket Billing System</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Supermarket Billing</h1>
+            <div class="status" id="status"></div>
+        </header>
+
+        <section class="scan">
+            <div class="field-group">
+                <label for="productCode">Product Code (Barcode)</label>
+                <input type="text" id="productCode" placeholder="e.g., P1001" />
+            </div>
+            <div class="field-group">
+                <label for="quantity">Quantity</label>
+                <input type="number" id="quantity" value="1" min="1" />
+            </div>
+            <button id="addBtn">Add to Cart</button>
+            <button id="scanBtn" class="secondary">Scan Barcode</button>
+        </section>
+
+        <section class="cart">
+            <h2>Cart</h2>
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Code</th>
+                            <th>Name</th>
+                            <th>Category</th>
+                            <th>Price</th>
+                            <th>Qty</th>
+                            <th>Line Total</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody id="cartBody"></tbody>
+                </table>
+            </div>
+
+            <div class="totals">
+                <div>Subtotal: <span id="subtotal">0.00</span></div>
+                <div>Tax (<span id="taxRate">18</span>%): <span id="tax">0.00</span></div>
+                <div class="grand">Total: <span id="total">0.00</span></div>
+            </div>
+        </section>
+
+        <section class="payment">
+            <h2>Payment</h2>
+            <div class="payment-methods">
+                <label><input type="radio" name="payment" value="Cash" checked /> Cash</label>
+                <label><input type="radio" name="payment" value="UPI" /> UPI</label>
+            </div>
+            <div class="field-group">
+                <label for="whatsApp">Customer WhatsApp Number with country code, (+91 1234567890)</label>
+                <input type="tel" id="whatsApp" placeholder="+91 1234567890" />
+            </div>
+            <button id="checkoutBtn">Generate Bill & Send</button>
+        </section>
+
+        <footer>
+            <small></small>
+        </footer>
+    </div>
+
+    <div id="scannerModal" class="scanner-modal" aria-hidden="true">
+        <div class="scanner-content">
+            <div class="scanner-header">
+                <h3>Scan Product Barcode</h3>
+                <button id="closeScanner" class="action-btn">Close</button>
+            </div>
+            <div id="scanner" class="scanner-view"></div>
+            <div class="scanner-tip">Align barcode within the frame. Auto-detect on focus.</div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/@ericblade/quagga2/dist/quagga.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
+
+
