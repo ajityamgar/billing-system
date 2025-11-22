@@ -1,5 +1,7 @@
+Flask
 Flask==3.0.3
-twilio==9.3.2
+gunicorn
+gunicorn==20.1.0
 qrcode==7.4.2
 reportlab==4.2.5
-gunicorn==20.1.0
+twilio==9.3.2
